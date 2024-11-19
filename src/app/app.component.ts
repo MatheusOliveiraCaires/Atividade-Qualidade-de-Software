@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'Qualidade de Software';
+  title = 'Modificação feita para ser Atualizada na Versão';
 }
